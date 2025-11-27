@@ -20,8 +20,8 @@ To write a Java program demonstrating runtime polymorphism using method overridi
 ## PROGRAM:
  ```
 Program to implement a Polymorphism using Java
-Developed by: Gnanendran N
-RegisterNumber:212223240037
+Developed by: Pradeep kumar G
+RegisterNumber:212223230150
 ```
 
 ## SOURCE CODE:
@@ -87,4 +87,5 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program demonstrating Polymorphism using Method Overriding was successfully executed.
+
 
