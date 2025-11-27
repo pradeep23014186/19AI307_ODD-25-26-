@@ -19,8 +19,8 @@ To write a Java program to find the largest digit in a given number using Wrappe
 ## PROGRAM:
  ```
 Program to implement a Wrapper Class using Java
-Developed by: Gnanendran N
-RegisterNumber:212223240037
+Developed by: Pradeep kumar G
+RegisterNumber:212223230150
 ```
 
 ## SOURCE CODE:
@@ -56,4 +56,5 @@ public class LargestDigit {
 
 ## RESULT:
 Thus, the program to find the largest digit in a number using Wrapper Class methods was successfully executed.
+
 
