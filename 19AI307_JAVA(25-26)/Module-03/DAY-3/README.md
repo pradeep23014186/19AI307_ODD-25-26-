@@ -21,8 +21,8 @@ To implement Abstraction in Java by defining an abstract class with abstract met
 ## PROGRAM:
  ```
 Program to implement a Abstraction using Java
-Developed by: Gnanendran N
-RegisterNumber:212223240037
+Developed by: Pradeep kumar G
+RegisterNumber:212223230150
 ```
 
 ## SOURCE CODE:
@@ -100,5 +100,6 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program demonstrating Abstraction using an abstract class and derived classes was executed successfully.
+
 
 
