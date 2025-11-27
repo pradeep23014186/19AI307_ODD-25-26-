@@ -20,8 +20,8 @@ To write a Java program that defines a class Calculator with one non-static meth
 ## PROGRAM:
  ```
 Program to implement a Variable scope and Constructor using Java
-Developed by: Gnanendran N
-RegisterNumber: 212223240037
+Developed by: Pradeep kumar G
+RegisterNumber: 212223230150
 ```
 
 ## SOURCE CODE:
@@ -66,5 +66,6 @@ public class Main {
 
 ## RESULT:
 The program successfully demonstrates the use of static and non-static methods in a class.
+
 
 
