@@ -16,8 +16,8 @@ To write character data into a file using the FileWriter class in Java.
 ## PROGRAM:
  ```
 Program to implement a InputStreamReader using Java
-Developed by: Gnanendran N
-RegisterNumber: 212223240037
+Developed by: Pradeep kumar G
+RegisterNumber:212223230150
 ```
 
 ## SOURCE CODE:
@@ -48,3 +48,4 @@ public class FileWriteExample {
 
 ## RESULT:
 The program successfully writes the entered text into output.txt using FileWriter.
+
