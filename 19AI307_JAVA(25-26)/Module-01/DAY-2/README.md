@@ -57,8 +57,8 @@ Print "Access Denied".
 ## PROGRAM:
  ```
 Program to implement a conditional statement using Java
-Developed by: Gnanendran N
-RegisterNumber:  212223240037
+Developed by: Pradeep kumar G
+RegisterNumber:  212223230150
 ```
 
 ## SOURCE CODE:
@@ -96,5 +96,6 @@ public class Pirate{
 
 ## RESULT:
 Thus, the program to implement conditional statements in Java was executed successfully.
+
 
 
