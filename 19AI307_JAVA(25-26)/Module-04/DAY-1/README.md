@@ -21,8 +21,8 @@ To write a Java program that demonstrates how a NullPointerException occurs when
 ## PROGRAM:
   ```
 Program to implement a conditional statement using Java
-Developed by: Gnanendran N
-RegisterNumber:  212223240037
+Developed by: Pradeep kumar G
+RegisterNumber:212223230150
 ```
 
 ## SOURCE CODE:
@@ -52,6 +52,7 @@ public class NullPointerIntegerExample {
 
 ## RESULT:
 The program successfully demonstrates how invoking a method on a null `Integer` object triggers a `NullPointerException`, and shows how the exception can be caught and handled gracefully by printing `"Null Integer"`.
+
 
 
 
