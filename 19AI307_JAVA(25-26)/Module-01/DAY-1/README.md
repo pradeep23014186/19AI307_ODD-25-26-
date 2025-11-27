@@ -31,8 +31,8 @@ To develop a Java program that receives a single string input (the customer's na
 ## PROGRAM:
  ```
 Program to implement variables and Operators using Java
-Developed by: Gnanendran N
-RegisterNumber: 212223240037
+Developed by: Pradeep kumar G
+RegisterNumber: 212223230150
 ```
 
 ## Sourcecode.java:
@@ -67,5 +67,6 @@ public class Main {
 
 ## RESULT:
 The program successfully reads a name from the user and prints the message.
+
 
 
