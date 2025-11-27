@@ -20,8 +20,8 @@ To write a Java program demonstrating Inheritance and Aggregation by creating su
 ## PROGRAM:
  ```
 Program to implement a Inheritance and Aggregation using Java
-Developed by: Gnanendran N
-RegisterNumber: 212223240037
+Developed by: Pradeep kumar G
+RegisterNumber: 212223230150
 ```
 
 ## SOURCE CODE:
@@ -139,4 +139,5 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program demonstrating Inheritance and Aggregation using customer types with different discount calculations was successfully executed.
+
 
