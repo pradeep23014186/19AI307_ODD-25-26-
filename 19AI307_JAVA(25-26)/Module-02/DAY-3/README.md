@@ -37,8 +37,8 @@ To write a Java program that defines a class BankAccount with private attributes
 ## PROGRAM:
  ```
 Program to implement a Access Specifiers using Java
-Developed by: Gnanendran N
-Register Number: 212223240037
+Developed by: Pradeep kumar G
+Register Number: 212223230150
 ```
 
 ## SOURCE CODE:
@@ -94,3 +94,4 @@ public class prog {
 
 ## RESULT:
 Therfore the program successfully stores account details using setter methods and retrieves them using getter methods.
+
