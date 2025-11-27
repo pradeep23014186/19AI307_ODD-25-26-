@@ -31,8 +31,8 @@ To understand how to define and use static and non-static methods in Java and ca
  ```
 
 Program to implement a Methods using Java
-Developed by: Gnanendran N
-RegisterNumber:  212223240037
+Developed by: Pradeep kumar G
+RegisterNumber:  212223230150
 
 ```
 
@@ -63,3 +63,4 @@ public class Test {
 ## RESULT:
 
 Thus, the Java program demonstrating static and non-static methods was executed successfully.
+
